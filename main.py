@@ -1,6 +1,6 @@
-def func(a+9, b+3):
+def func(a, b + 3):
     print(a + b)
-   
+
 
 
 if __name__ == "__main__":
