@@ -1,4 +1,4 @@
-def func(a, b+3):
+def func(a+9, b+3):
     print(a + b)
    
 
